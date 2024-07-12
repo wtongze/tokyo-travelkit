@@ -1,6 +1,6 @@
 # Tokyo TravelKit
 
-> A full-stack multi-language web-based trip planner to provide transfer directions for train trips in Tokyo, Japan.
+> A full-stack multi-language web-based trip planner which provides transfer directions for train trips in Tokyo, Japan.
 
 ![Cover](img/cover.png)
 
